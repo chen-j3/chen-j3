@@ -1,4 +1,4 @@
-## Hi there 👋
+<!--## Hi there 👋-->
 
 👋 Hi, I'm Jessica!
 🎓 Senior at Binghamton University, studying Computer Science
@@ -7,26 +7,25 @@ I am passionate about developing new technical skills. Currently, I'm focusing o
 
 
 🎯 Featured Project:
-
+Word Hunt Solver: Implemented 8-directional grid traversal with Trie-based and set-based backtracking to solve Word Hunt efficiently
 
 🛠 Tech Stack:
 Languages: Python, Java, C++
 Data Science: Pandas, NumPy, scikit-learn, TensorFlow
 Web Dev: HTML, CSS, JavaScript (basic)
 Tools: Jupyter Notebooks, GitHub
- 
 
-🚀 Projects:
+<!-- 🚀 Other Projects: -->
 
 📫 How to Reach Me:
 Email: chenjessica.004@gmail.com
 LinkedIn: https://www.linkedin.com/in/chenjessica004/
  
-
+<!--
 📊 GitHub Stats:
  
 ✨ Fun Fact:
-
+-->
 <!--
 **chen-j3/chen-j3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
